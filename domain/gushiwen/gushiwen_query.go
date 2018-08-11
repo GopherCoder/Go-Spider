@@ -3,7 +3,7 @@ package gushiwen
 import (
 	"fmt"
 
-	"GO-Spider/src/model"
+	"Go-Spider/src/model"
 
 	"strconv"
 
