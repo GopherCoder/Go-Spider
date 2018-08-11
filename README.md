@@ -45,6 +45,7 @@
 
 - 代理: ip 池
 - User-Agent: 模拟浏览器
+- APP:  APP 数据需要使用抓包工具：Mac(Charles)、Windows(Fiddler)(分析出Api)
 
 
 ### 9. 难点
@@ -54,6 +55,7 @@
 
 
 >  本教程讲述前8节
+>  演示使用 Mac, IDE 选择的是 Goland
 
 
 
