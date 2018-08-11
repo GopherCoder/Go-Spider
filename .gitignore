@@ -1,4 +1,5 @@
 
 .idea/
 
-
+vendor/*
+!vendor/vendor.json
