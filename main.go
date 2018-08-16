@@ -2,15 +2,16 @@ package main
 
 import (
 	"Go-Spider/domain/gushiwen"
+	"Go-Spider/domain/meizitu"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
 	"fmt"
 )
 
 func init() {
-	initial.DBInit()
-	CreateTable()
-	Start()
+	//initial.DBInit()
+	//CreateTable()
+	//Start()
 }
 
 func CreateTable() {
@@ -47,6 +48,7 @@ func Start() {
 }
 
 func main() {
-	defer initial.DataBase.Close()
+	//defer initial.DataBase.Close()
+	meizitu.Start()
 
 }

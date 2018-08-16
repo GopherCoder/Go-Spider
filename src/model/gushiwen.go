@@ -31,7 +31,7 @@ type PoetryInfo struct {
 	gorm.Model
 	Title     string `gorm:"type:varchar" json:"title"`
 	Content   string `gorm:"type:varchar" json:"content"`
-	Liked     uint   `gorm:"type:varchar;default(0)" json:"liked"`
+	Liked     uint   `gorm:"type:integer;default(0)" json:"liked"`
 	PoetID    uint   `gorm:"type:integer" json:"poet_id"`
 	DynastyID uint   `gorm:"type:integer" json:"dynasty_id"`
 }
