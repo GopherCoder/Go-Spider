@@ -1,8 +1,8 @@
 package main
 
 import (
+	"Go-Spider/domain/dongqiudi"
 	"Go-Spider/domain/gushiwen"
-	"Go-Spider/domain/meizitu"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
 	"fmt"
@@ -49,6 +49,7 @@ func Start() {
 
 func main() {
 	//defer initial.DataBase.Close()
-	meizitu.Start()
+	//meizitu.Start()
+	dongqiudi.StartDongQiuDi()
 
 }
