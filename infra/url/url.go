@@ -19,6 +19,7 @@ var (
 	XinBangURL       = "https://www.newrank.cn/xdnphb/list/day/rank"
 	MeiZiURL         = "http://www.mmjpg.com/"
 	GuShiWenURL      = "https://www.gushiwen.org/"
+	GithubTrend      = "https://github.com/trending/go?since=daily"
 )
 
 func GetMaoYanURL(year int) string {

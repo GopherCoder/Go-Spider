@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go-Spider/domain/dongqiudi"
+	"Go-Spider/domain/githubtrending"
 	"Go-Spider/domain/gushiwen"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
@@ -9,18 +9,21 @@ import (
 )
 
 func init() {
-	//initial.DBInit()
-	//CreateTable()
+	initial.DBInit()
+	CreateTable()
 	//Start()
 }
 
 func CreateTable() {
 	initial.DataBase.AutoMigrate(
+		// 古诗文
 		&model.RankListCBOInfo{},
 		&model.Dynasty{},
 		&model.PoetryType{},
 		&model.Poet{},
 		&model.PoetryInfo{},
+		// github 仓库
+		&model.Repositories{},
 	)
 }
 func Start() {
@@ -50,6 +53,7 @@ func Start() {
 func main() {
 	//defer initial.DataBase.Close()
 	//meizitu.Start()
-	dongqiudi.StartDongQiuDi()
+	//dongqiudi.StartDongQiuDi()
+	githubtrending.TrendingStart()
 
 }
