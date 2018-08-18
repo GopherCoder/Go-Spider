@@ -20,6 +20,7 @@ var (
 	MeiZiURL         = "http://www.mmjpg.com/"
 	GuShiWenURL      = "https://www.gushiwen.org/"
 	GithubTrend      = "https://github.com/trending/go?since=daily"
+	PexlesURL        = "https://www.pexels.com/?dark=false&page=%d"
 )
 
 func GetMaoYanURL(year int) string {

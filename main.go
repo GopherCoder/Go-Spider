@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Go-Spider/domain/githubtrending"
 	"Go-Spider/domain/gushiwen"
+	"Go-Spider/domain/pexels"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
 	"fmt"
@@ -24,6 +24,10 @@ func CreateTable() {
 		&model.PoetryInfo{},
 		// github 仓库
 		&model.Repositories{},
+
+		// pexles
+		&model.ImageSize{},
+		&model.ImageAddress{},
 	)
 }
 func Start() {
@@ -54,6 +58,7 @@ func main() {
 	//defer initial.DataBase.Close()
 	//meizitu.Start()
 	//dongqiudi.StartDongQiuDi()
-	githubtrending.TrendingStart()
+	//githubtrending.TrendingStart()
+	pexels.Start()
 
 }
