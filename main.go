@@ -1,8 +1,8 @@
 package main
 
 import (
+	"Go-Spider/cmd"
 	"Go-Spider/domain/gushiwen"
-	"Go-Spider/domain/pexels"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
 	"fmt"
@@ -12,6 +12,7 @@ func init() {
 	initial.DBInit()
 	CreateTable()
 	//Start()
+
 }
 
 func CreateTable() {
@@ -59,6 +60,7 @@ func main() {
 	//meizitu.Start()
 	//dongqiudi.StartDongQiuDi()
 	//githubtrending.TrendingStart()
-	pexels.Start()
+	//pexels.Start()
+	cmd.Execute()
 
 }
