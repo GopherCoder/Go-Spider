@@ -347,3 +347,47 @@ URL|
 **球队榜**
 
 **赛程**
+
+
+---
+
+####  wifi 设置
+
+- 电脑和手机连接同一wifi
+- charles 设置proxy_setting 端口号
+![](image/proxy_setting.png)
+
+- 手机设置手动代理，设置端口号
+
+![](image/wifi.png)
+
+- 手机下载证书
+- 手机操作App
+
+APP 端：FIFA 排行 -- 国家队
+
+![](image/app_nation.png)
+
+charless 捕获 FIFA 排行 -- 国家队
+
+![](image/guojiadui.png)
+
+APP 端：FIFA 排行 -- 俱乐部
+
+![](image/app_club.png) 
+
+charless 捕获 FIFA 排行 -- 俱乐部
+
+![](image/club.png) 
+
+APP 端：FIFA 排行 -- 球员
+
+![](image/app_mark_ranking.png)
+ 
+charless 捕获 FIFA 排行 -- 球员
+
+![](image/market_ranking.png)
+
+
+
+
