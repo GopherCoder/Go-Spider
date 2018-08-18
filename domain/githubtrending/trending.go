@@ -149,7 +149,6 @@ func SaveCsv(result RepositoriesList) {
 		os.Remove(fileName)
 	}
 	f, err = os.Create(fileName) //创建文件
-	fmt.Println(err, FileBase+"/trending.csv")
 	if err != nil {
 		f, err = os.Create(FileBase + "/trending.csv")
 		fmt.Println(err, f.Name())
@@ -208,6 +207,6 @@ func TrendingStart() {
 	SaveText(All)
 	SaveJson(All)
 	SaveCsv(All)
-	//SavePostgres(All)
+	SavePostgres(All)
 	SaveMarkDown(All)
 }
