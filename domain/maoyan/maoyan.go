@@ -37,6 +37,10 @@ func init() {
 }
 
 var (
+	//<li class="col1">
+	//<p class="first-line">红海行动</p>
+	//<p class="second-line">2018-02-16 上映</p>
+	//</li>
 	maoYanRootURl                = "https://piaofang.maoyan.com/"
 	rankPattern                  = `<li class="col0">(.*?)</li>`
 	movieNameAndStartYearPattern = `<li class="col1">

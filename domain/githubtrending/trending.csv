@@ -1,151 +1,151 @@
 ﻿name,totalStar,fork,sinceNumber,language,since,description
-google / python-fire,"10,485",582,504 ,python,day,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-IEEEKeralaSection / rescuekerala,354,430,116 ,python,day,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-pwxcoo / chinese-xinhua,911,229,143 ,python,day,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-imhuay / Interview_Notes-Chinese,"1,378",286,139 ,python,day,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-astorfi / Deep-Learning-World,"1,993",153,119 ,python,day,📡 Organized Resources for Deep Learning Researchers and Developers
-Pext / Pext,275,20,115 ,python,day,Python-based extendable tool
-calebmadrigal / trackerjacker,"1,654",79,67 ,python,day,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
-donnemartin / system-design-primer,"41,509","5,393",58 ,python,day,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-tensorflow / models,"40,089","23,813",46 ,python,day,Models and examples built with TensorFlow
-NVIDIA / vid2vid,78,6,49 ,python,day,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-vinta / awesome-python,"53,987","10,457",47 ,python,day,"A curated list of awesome Python frameworks, libraries, software and resources"
-chinese-poetry / chinese-poetry,"10,617","1,584",43 ,python,day,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
-jhfjhfj1 / autokeras,"2,537",301,43 ,python,day,accessible AutoML for deep learning.
-pyfocus / pylava,44,53,42 ,python,day,Code audit tool for python (a fork of klen/pylama that works with Python 3.7)
-aquasecurity / kube-hunter,136,10,39 ,python,day,Hunt for security weaknesses in Kubernetes clusters
-spotify / luigi,"9,819","1,692",35 ,python,day,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
-ageitgey / face_recognition,"16,024","3,774",33 ,python,day,The world's simplest facial recognition api for Python and the command line
-django / django,"35,807","15,318",25 ,python,day,The Web framework for perfectionists with deadlines.
-two06 / Inception,39,17,26 ,python,day,Provides In-memory compilation and reflective loading of C# apps for AV evasion.
-facebookresearch / UnsupervisedMT,439,47,31 ,python,day,Phrase-Based & Neural Unsupervised Machine Translation
-ashutosh1206 / Crypton,272,29,29 ,python,day,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
-chubin / cheat.sh,"12,343",492,25 ,python,day,the only cheat sheet you need
-toddmotto / public-apis,"41,212","4,114",25 ,python,day,A collective list of public JSON APIs for use in web development.
-scikit-learn / scikit-learn,"30,005","14,854",22 ,python,day,scikit-learn: machine learning in Python
-josephmisiti / awesome-machine-learning,"34,759","8,527",23 ,python,day,"A curated list of awesome Machine Learning frameworks, libraries and software."
-astorfi / Deep-Learning-World,"1,993",153,"1,984 ",python,weekly,📡 Organized Resources for Deep Learning Researchers and Developers
-calebmadrigal / trackerjacker,"1,654",79,"1,501 ",python,weekly,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
-imhuay / Interview_Notes-Chinese,"1,378",286,"1,281 ",python,weekly,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-virtualabs / btlejack,854,52,851 ,python,weekly,Bluetooth Low Energy Swiss-army knife
-donnemartin / system-design-primer,"41,509","5,393",771 ,python,weekly,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-chinese-poetry / chinese-poetry,"10,617","1,584",726 ,python,weekly,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
-SpiderLabs / social_mapper,"1,342",337,600 ,python,weekly,A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
-pwxcoo / chinese-xinhua,911,229,560 ,python,weekly,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-IEEEKeralaSection / rescuekerala,354,430,347 ,python,weekly,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-google / python-fire,"10,485",582,523 ,python,weekly,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-tensorflow / models,"40,089","23,813",350 ,python,weekly,Models and examples built with TensorFlow
-facebookresearch / UnsupervisedMT,439,47,436 ,python,weekly,Phrase-Based & Neural Unsupervised Machine Translation
-jhfjhfj1 / autokeras,"2,537",301,384 ,python,weekly,accessible AutoML for deep learning.
-vinta / awesome-python,"53,987","10,457",343 ,python,weekly,"A curated list of awesome Python frameworks, libraries, software and resources"
-yogurt-cultures / kefir,342,26,293 ,python,weekly,Kefir is a natural language processing kit for Turkic languages
-ashutosh1206 / Crypton,272,29,268 ,python,weekly,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
-chubin / cheat.sh,"12,343",492,273 ,python,weekly,the only cheat sheet you need
-keras-team / keras,"32,635","12,271",227 ,python,weekly,Deep Learning for humans
-toddmotto / public-apis,"41,212","4,114",228 ,python,weekly,A collective list of public JSON APIs for use in web development.
-haskellcamargo / sclack,"1,445",44,231 ,python,weekly,"The best CLI client for Slack, because everything is terrible!"
-rg3 / youtube-dl,"40,707","7,173",217 ,python,weekly,Command-line program to download videos from YouTube.com and other video sites
-ageitgey / face_recognition,"16,024","3,774",204 ,python,weekly,The world's simplest facial recognition api for Python and the command line
-ansible / ansible,"32,031","12,454",156 ,python,weekly,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
-django / django,"35,807","15,318",157 ,python,weekly,The Web framework for perfectionists with deadlines.
-Hello-Linux / Ansible-VIM-IDE,201,13,196 ,python,weekly,A beautiful VIM-IDE based on Ansible
-google / python-fire,"10,485",582,504 ,python,month,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-IEEEKeralaSection / rescuekerala,354,430,116 ,python,month,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-pwxcoo / chinese-xinhua,911,229,143 ,python,month,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-imhuay / Interview_Notes-Chinese,"1,378",286,139 ,python,month,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-astorfi / Deep-Learning-World,"1,993",153,119 ,python,month,📡 Organized Resources for Deep Learning Researchers and Developers
-Pext / Pext,275,20,115 ,python,month,Python-based extendable tool
-calebmadrigal / trackerjacker,"1,654",79,67 ,python,month,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
-donnemartin / system-design-primer,"41,509","5,393",58 ,python,month,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-tensorflow / models,"40,089","23,813",46 ,python,month,Models and examples built with TensorFlow
-NVIDIA / vid2vid,78,6,49 ,python,month,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-vinta / awesome-python,"53,987","10,457",47 ,python,month,"A curated list of awesome Python frameworks, libraries, software and resources"
-chinese-poetry / chinese-poetry,"10,617","1,584",43 ,python,month,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
-jhfjhfj1 / autokeras,"2,537",301,43 ,python,month,accessible AutoML for deep learning.
-pyfocus / pylava,44,53,42 ,python,month,Code audit tool for python (a fork of klen/pylama that works with Python 3.7)
-aquasecurity / kube-hunter,136,10,39 ,python,month,Hunt for security weaknesses in Kubernetes clusters
-spotify / luigi,"9,819","1,692",35 ,python,month,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
-ageitgey / face_recognition,"16,024","3,774",33 ,python,month,The world's simplest facial recognition api for Python and the command line
-django / django,"35,807","15,318",25 ,python,month,The Web framework for perfectionists with deadlines.
-two06 / Inception,39,17,26 ,python,month,Provides In-memory compilation and reflective loading of C# apps for AV evasion.
-facebookresearch / UnsupervisedMT,439,47,31 ,python,month,Phrase-Based & Neural Unsupervised Machine Translation
-ashutosh1206 / Crypton,272,29,29 ,python,month,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
-chubin / cheat.sh,"12,343",492,25 ,python,month,the only cheat sheet you need
-toddmotto / public-apis,"41,212","4,114",25 ,python,month,A collective list of public JSON APIs for use in web development.
-scikit-learn / scikit-learn,"30,005","14,854",22 ,python,month,scikit-learn: machine learning in Python
-josephmisiti / awesome-machine-learning,"34,759","8,527",23 ,python,month,"A curated list of awesome Machine Learning frameworks, libraries and software."
-MichaelMure / git-bug,"1,064",17,"1,001 ",go,day,Distributed bug tracker embedded in Git
-Jeffail / benthos,"1,277",35,193 ,go,day,"A dull, resilient and quick to deploy stream processor"
-jesseduffield / lazygit,"8,280",218,76 ,go,day,simple terminal UI for git commands
-uber-go / zap,"4,822",332,53 ,go,day,"Blazing fast, structured, leveled logging in Go."
-FiloSottile / mkcert,"9,834",326,47 ,go,day,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-kubernetes / kubernetes,"40,203","13,987",32 ,go,day,Production-Grade Container Scheduling and Management
-golang / go,"45,653","6,231",34 ,go,day,The Go programming language
-satran / dohproxy,61,5,34 ,go,day,DNS over HTTPS proxy written in golang
-ethereum / go-ethereum,"20,091","6,820",27 ,go,day,Official Go implementation of the Ethereum protocol
-gohugoio / hugo,"28,006","3,283",29 ,go,day,The world’s fastest framework for building websites.
-mb-14 / gomarkov,79,3,28 ,go,day,Markov chains in golang
-aykevl / tinygo,74,1,28 ,go,day,"Go compiler for small devices, based on LLVM."
-avelino / awesome-go,"34,231","4,407",26 ,go,day,"A curated list of awesome Go frameworks, libraries and software"
-go-ego / riot,"3,820",182,25 ,go,day,"Go Open Source, Distributed, Simple and efficient Search Engine"
-prometheus / prometheus,"18,247","2,406",24 ,go,day,The Prometheus monitoring system and time series database.
-kubernetes-sigs / kustomize,855,67,24 ,go,day,Customization of kubernetes YAML configurations
-getlantern / lantern,"36,990","8,454",20 ,go,day,🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-araddon / qlbridge,449,22,22 ,go,day,A golang SQL expression VM. Library to build query engine based functionality.
-v2ray / v2ray-core,"9,773","2,086",18 ,go,day,A platform for building proxies to bypass network restrictions.
-moby / moby,"49,996","14,577",20 ,go,day,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-gin-gonic / gin,"19,691","2,329",18 ,go,day,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
-helm / helm,"7,060","2,401",15 ,go,day,The Kubernetes Package Manager
-goharbor / harbor,"5,077","1,431",18 ,go,day,"An open source trusted cloud native registry project that stores, signs, and scans content."
-gogs / gogs,"26,608","3,089",18 ,go,day,Gogs is a painless self-hosted Git service.
-iikira / BaiduPCS-Go,"5,560",798,17 ,go,day,百度网盘客户端 - Go语言编写
-FiloSottile / mkcert,"9,834",326,"2,284 ",go,weekly,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-jesseduffield / lazygit,"8,280",218,"1,447 ",go,weekly,simple terminal UI for git commands
-MichaelMure / git-bug,"1,064",17,"1,004 ",go,weekly,Distributed bug tracker embedded in Git
-Jeffail / benthos,"1,277",35,973 ,go,weekly,"A dull, resilient and quick to deploy stream processor"
-uber-go / zap,"4,822",332,483 ,go,weekly,"Blazing fast, structured, leveled logging in Go."
-kubernetes / kubernetes,"40,203","13,987",302 ,go,weekly,Production-Grade Container Scheduling and Management
-golang / go,"45,653","6,231",310 ,go,weekly,The Go programming language
-araddon / qlbridge,449,22,328 ,go,weekly,A golang SQL expression VM. Library to build query engine based functionality.
-avelino / awesome-go,"34,231","4,407",271 ,go,weekly,"A curated list of awesome Go frameworks, libraries and software"
-chai2010 / advanced-go-programming-book,"4,435",446,259 ,go,weekly,📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
-ethereum / go-ethereum,"20,091","6,820",202 ,go,weekly,Official Go implementation of the Ethereum protocol
-iikira / BaiduPCS-Go,"5,560",798,225 ,go,weekly,百度网盘客户端 - Go语言编写
-gin-gonic / gin,"19,691","2,329",221 ,go,weekly,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
-fatedier / frp,"14,472","2,614",211 ,go,weekly,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-getlantern / lantern,"36,990","8,454",196 ,go,weekly,🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-istio / istio,"10,905","1,547",192 ,go,weekly,"Connect, secure, control, and observe services."
-prometheus / prometheus,"18,247","2,406",192 ,go,weekly,The Prometheus monitoring system and time series database.
-gohugoio / hugo,"28,006","3,283",189 ,go,weekly,The world’s fastest framework for building websites.
-v2ray / v2ray-core,"9,773","2,086",177 ,go,weekly,A platform for building proxies to bypass network restrictions.
-jroimartin / gocui,"3,262",185,190 ,go,weekly,Minimalist Go package aimed at creating Console User Interfaces.
-go-gitea / gitea,"9,540",927,172 ,go,weekly,"Git with a cup of tea, painless self-hosted git service"
-containous / traefik,"17,040","1,716",164 ,go,weekly,The Cloud Native Edge Router
-astaxie / build-web-application-with-golang,"24,533","7,082",146 ,go,weekly,A golang ebook intro how to build a web with golang
+google / python-fire,"10,729",596,347 ,python,day,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+pwxcoo / chinese-xinhua,"1,125",275,222 ,python,day,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+NVIDIA / vid2vid,227,32,145 ,python,day,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+imhuay / Interview_Notes-Chinese,"1,463",298,107 ,python,day,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+IEEEKeralaSection / rescuekerala,412,501,70 ,python,day,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+astorfi / Deep-Learning-World,"2,065",167,82 ,python,day,📡 Organized Resources for Deep Learning Researchers and Developers
+donnemartin / system-design-primer,"41,573","5,399",67 ,python,day,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+UnkL4b / GitMiner,998,220,52 ,python,day,Tool for advanced mining for content on Github
+tensorflow / models,"40,114","23,830",34 ,python,day,Models and examples built with TensorFlow
+vinta / awesome-python,"54,010","10,463",38 ,python,day,"A curated list of awesome Python frameworks, libraries, software and resources"
+calebmadrigal / trackerjacker,"1,685",82,35 ,python,day,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
+s0md3v / Photon,"3,136",280,31 ,python,day,"Incredibly fast crawler which extracts urls, emails, files, website accounts and much more."
+two06 / Inception,62,21,27 ,python,day,Provides In-memory compilation and reflective loading of C# apps for AV evasion.
+jhfjhfj1 / autokeras,"2,558",305,26 ,python,day,accessible AutoML for deep learning.
+yeasy / docker_practice,"9,214","3,044",24 ,python,day,"Learn and understand Docker technologies, with real DevOps practice!"
+chinese-poetry / chinese-poetry,"10,634","1,586",23 ,python,day,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+keras-team / keras,"32,650","12,278",20 ,python,day,Deep Learning for humans
+chubin / cheat.sh,"12,362",498,20 ,python,day,the only cheat sheet you need
+ageitgey / face_recognition,"16,038","3,780",19 ,python,day,The world's simplest facial recognition api for Python and the command line
+django / django,"35,821","15,321",18 ,python,day,The Web framework for perfectionists with deadlines.
+ashutosh1206 / Crypton,288,30,20 ,python,day,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
+SpiderLabs / social_mapper,"1,357",343,15 ,python,day,A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+XX-net / XX-Net,"24,315","6,986",17 ,python,day,a web proxy tool
+rg3 / youtube-dl,"40,719","7,177",15 ,python,day,Command-line program to download videos from YouTube.com and other video sites
+pandas-dev / pandas,"15,625","6,299",16 ,python,day,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+astorfi / Deep-Learning-World,"2,065",167,"2,056 ",python,weekly,📡 Organized Resources for Deep Learning Researchers and Developers
+calebmadrigal / trackerjacker,"1,685",82,"1,523 ",python,weekly,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
+imhuay / Interview_Notes-Chinese,"1,463",298,"1,369 ",python,weekly,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+virtualabs / btlejack,867,53,844 ,python,weekly,Bluetooth Low Energy Swiss-army knife
+pwxcoo / chinese-xinhua,"1,125",275,754 ,python,weekly,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+google / python-fire,"10,729",596,816 ,python,weekly,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+donnemartin / system-design-primer,"41,573","5,399",743 ,python,weekly,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+chinese-poetry / chinese-poetry,"10,634","1,586",739 ,python,weekly,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+IEEEKeralaSection / rescuekerala,412,501,406 ,python,weekly,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+SpiderLabs / social_mapper,"1,357",343,512 ,python,weekly,A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+tensorflow / models,"40,114","23,830",356 ,python,weekly,Models and examples built with TensorFlow
+facebookresearch / UnsupervisedMT,449,50,448 ,python,weekly,Phrase-Based & Neural Unsupervised Machine Translation
+jhfjhfj1 / autokeras,"2,558",305,370 ,python,weekly,accessible AutoML for deep learning.
+vinta / awesome-python,"54,010","10,463",352 ,python,weekly,"A curated list of awesome Python frameworks, libraries, software and resources"
+ashutosh1206 / Crypton,288,30,287 ,python,weekly,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
+keras-team / keras,"32,650","12,278",223 ,python,weekly,Deep Learning for humans
+chubin / cheat.sh,"12,362",498,259 ,python,weekly,the only cheat sheet you need
+yogurt-cultures / kefir,346,26,225 ,python,weekly,Kefir is a natural language processing kit for Turkic languages
+ageitgey / face_recognition,"16,038","3,780",205 ,python,weekly,The world's simplest facial recognition api for Python and the command line
+toddmotto / public-apis,"41,224","4,117",213 ,python,weekly,A collective list of public JSON APIs for use in web development.
+rg3 / youtube-dl,"40,719","7,177",197 ,python,weekly,Command-line program to download videos from YouTube.com and other video sites
+s0md3v / Photon,"3,136",280,195 ,python,weekly,"Incredibly fast crawler which extracts urls, emails, files, website accounts and much more."
+haskellcamargo / sclack,"1,454",44,208 ,python,weekly,"The best CLI client for Slack, because everything is terrible!"
+django / django,"35,821","15,321",158 ,python,weekly,The Web framework for perfectionists with deadlines.
+ansible / ansible,"32,037","12,453",153 ,python,weekly,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+google / python-fire,"10,729",596,347 ,python,month,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+pwxcoo / chinese-xinhua,"1,125",275,222 ,python,month,中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+NVIDIA / vid2vid,227,32,145 ,python,month,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+imhuay / Interview_Notes-Chinese,"1,463",298,107 ,python,month,2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+IEEEKeralaSection / rescuekerala,412,501,70 ,python,month,Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+astorfi / Deep-Learning-World,"2,065",167,82 ,python,month,📡 Organized Resources for Deep Learning Researchers and Developers
+donnemartin / system-design-primer,"41,573","5,399",67 ,python,month,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+UnkL4b / GitMiner,998,220,52 ,python,month,Tool for advanced mining for content on Github
+tensorflow / models,"40,114","23,830",34 ,python,month,Models and examples built with TensorFlow
+vinta / awesome-python,"54,010","10,463",38 ,python,month,"A curated list of awesome Python frameworks, libraries, software and resources"
+calebmadrigal / trackerjacker,"1,685",82,35 ,python,month,"Like nmap for mapping wifi networks you're not connected to, plus device tracking"
+s0md3v / Photon,"3,136",280,31 ,python,month,"Incredibly fast crawler which extracts urls, emails, files, website accounts and much more."
+two06 / Inception,62,21,27 ,python,month,Provides In-memory compilation and reflective loading of C# apps for AV evasion.
+jhfjhfj1 / autokeras,"2,558",305,26 ,python,month,accessible AutoML for deep learning.
+yeasy / docker_practice,"9,214","3,044",24 ,python,month,"Learn and understand Docker technologies, with real DevOps practice!"
+chinese-poetry / chinese-poetry,"10,634","1,586",23 ,python,month,"最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+keras-team / keras,"32,650","12,278",20 ,python,month,Deep Learning for humans
+chubin / cheat.sh,"12,362",498,20 ,python,month,the only cheat sheet you need
+ageitgey / face_recognition,"16,038","3,780",19 ,python,month,The world's simplest facial recognition api for Python and the command line
+django / django,"35,821","15,321",18 ,python,month,The Web framework for perfectionists with deadlines.
+ashutosh1206 / Crypton,288,30,20 ,python,month,"Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs"
+SpiderLabs / social_mapper,"1,357",343,15 ,python,month,A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+XX-net / XX-Net,"24,315","6,986",17 ,python,month,a web proxy tool
+rg3 / youtube-dl,"40,719","7,177",15 ,python,month,Command-line program to download videos from YouTube.com and other video sites
+pandas-dev / pandas,"15,625","6,299",16 ,python,month,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+MichaelMure / git-bug,"1,319",23,332 ,go,day,Distributed bug tracker embedded in Git
+aykevl / tinygo,285,8,266 ,go,day,"Go compiler for small devices, based on LLVM."
+jesseduffield / lazygit,"8,373",219,101 ,go,day,simple terminal UI for git commands
+Jeffail / benthos,"1,313",36,54 ,go,day,"A dull, resilient and quick to deploy stream processor"
+kubernetes / kubernetes,"40,228","13,990",33 ,go,day,Production-Grade Container Scheduling and Management
+iikira / BaiduPCS-Go,"5,591",798,38 ,go,day,百度网盘客户端 - Go语言编写
+FiloSottile / mkcert,"9,865",327,38 ,go,day,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+avelino / awesome-go,"34,258","4,408",35 ,go,day,"A curated list of awesome Go frameworks, libraries and software"
+v2ray / v2ray-core,"9,797","2,092",28 ,go,day,A platform for building proxies to bypass network restrictions.
+golang / go,"45,679","6,235",28 ,go,day,The Go programming language
+sausheong / invadersapp,33,4,27 ,go,day,Space invaders in an app
+uber-go / zap,"4,842",333,25 ,go,day,"Blazing fast, structured, leveled logging in Go."
+gin-gonic / gin,"19,705","2,332",23 ,go,day,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+gohugoio / hugo,"28,023","3,283",24 ,go,day,The world’s fastest framework for building websites.
+satran / dohproxy,78,6,23 ,go,day,DNS over HTTPS proxy written in golang
+CorentinB / DeepSort,27,1,23 ,go,day,🧠 AI powered image tagger backed by DeepDetect
+go-ego / riot,"3,835",182,21 ,go,day,"Go Open Source, Distributed, Simple and efficient Search Engine"
+astaxie / build-web-application-with-golang,"24,546","7,083",17 ,go,day,A golang ebook intro how to build a web with golang
+fatedier / frp,"14,486","2,616",17 ,go,day,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+containous / traefik,"17,050","1,719",14 ,go,day,The Cloud Native Edge Router
+araddon / qlbridge,461,22,15 ,go,day,A golang SQL expression VM. Library to build query engine based functionality.
+snail007 / goproxy,"3,197",604,14 ,go,day,"Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。"
+mosuka / blast,34,3,14 ,go,day,The Blast is a full text search and indexing server written in Go that built on top of the Bleve.
+istio / istio,"10,919","1,549",12 ,go,day,"Connect, secure, control, and observe services."
+jroimartin / gocui,"3,271",186,13 ,go,day,Minimalist Go package aimed at creating Console User Interfaces.
+FiloSottile / mkcert,"9,865",327,"2,312 ",go,weekly,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+jesseduffield / lazygit,"8,373",219,"1,389 ",go,weekly,simple terminal UI for git commands
+MichaelMure / git-bug,"1,319",23,"1,281 ",go,weekly,Distributed bug tracker embedded in Git
+Jeffail / benthos,"1,313",36,"1,013 ",go,weekly,"A dull, resilient and quick to deploy stream processor"
+uber-go / zap,"4,842",333,501 ,go,weekly,"Blazing fast, structured, leveled logging in Go."
+kubernetes / kubernetes,"40,228","13,990",306 ,go,weekly,Production-Grade Container Scheduling and Management
+golang / go,"45,679","6,235",313 ,go,weekly,The Go programming language
+araddon / qlbridge,461,22,338 ,go,weekly,A golang SQL expression VM. Library to build query engine based functionality.
+avelino / awesome-go,"34,258","4,408",287 ,go,weekly,"A curated list of awesome Go frameworks, libraries and software"
+aykevl / tinygo,285,8,266 ,go,weekly,"Go compiler for small devices, based on LLVM."
+iikira / BaiduPCS-Go,"5,591",798,245 ,go,weekly,百度网盘客户端 - Go语言编写
+chai2010 / advanced-go-programming-book,"4,442",448,227 ,go,weekly,📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
+gin-gonic / gin,"19,705","2,332",224 ,go,weekly,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+ethereum / go-ethereum,"20,096","6,822",192 ,go,weekly,Official Go implementation of the Ethereum protocol
+fatedier / frp,"14,486","2,616",207 ,go,weekly,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+istio / istio,"10,919","1,549",196 ,go,weekly,"Connect, secure, control, and observe services."
+getlantern / lantern,"37,003","8,458",197 ,go,weekly,🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
+v2ray / v2ray-core,"9,797","2,092",189 ,go,weekly,A platform for building proxies to bypass network restrictions.
+prometheus / prometheus,"18,259","2,411",186 ,go,weekly,The Prometheus monitoring system and time series database.
+gohugoio / hugo,"28,023","3,283",192 ,go,weekly,The world’s fastest framework for building websites.
+jroimartin / gocui,"3,271",186,180 ,go,weekly,Minimalist Go package aimed at creating Console User Interfaces.
+containous / traefik,"17,050","1,719",168 ,go,weekly,The Cloud Native Edge Router
+go-gitea / gitea,"9,546",926,164 ,go,weekly,"Git with a cup of tea, painless self-hosted git service"
+astaxie / build-web-application-with-golang,"24,546","7,083",149 ,go,weekly,A golang ebook intro how to build a web with golang
 otiai10 / amesh,233,5,165 ,go,weekly,みんなだいすき東京アメッシュ！
-m3db / m3,823,38,158 ,go,weekly,"M3 monorepo - Distributed TSDB and Query Engine, Prometheus Sidecar, Metrics Platform"
-MichaelMure / git-bug,"1,064",17,"1,001 ",go,month,Distributed bug tracker embedded in Git
-Jeffail / benthos,"1,277",35,193 ,go,month,"A dull, resilient and quick to deploy stream processor"
-jesseduffield / lazygit,"8,280",218,76 ,go,month,simple terminal UI for git commands
-uber-go / zap,"4,822",332,53 ,go,month,"Blazing fast, structured, leveled logging in Go."
-FiloSottile / mkcert,"9,834",326,47 ,go,month,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-kubernetes / kubernetes,"40,203","13,987",32 ,go,month,Production-Grade Container Scheduling and Management
-golang / go,"45,653","6,231",34 ,go,month,The Go programming language
-satran / dohproxy,61,5,34 ,go,month,DNS over HTTPS proxy written in golang
-ethereum / go-ethereum,"20,091","6,820",27 ,go,month,Official Go implementation of the Ethereum protocol
-gohugoio / hugo,"28,006","3,283",29 ,go,month,The world’s fastest framework for building websites.
-mb-14 / gomarkov,79,3,28 ,go,month,Markov chains in golang
-aykevl / tinygo,74,1,28 ,go,month,"Go compiler for small devices, based on LLVM."
-avelino / awesome-go,"34,231","4,407",26 ,go,month,"A curated list of awesome Go frameworks, libraries and software"
-go-ego / riot,"3,820",182,25 ,go,month,"Go Open Source, Distributed, Simple and efficient Search Engine"
-prometheus / prometheus,"18,247","2,406",24 ,go,month,The Prometheus monitoring system and time series database.
-kubernetes-sigs / kustomize,855,67,24 ,go,month,Customization of kubernetes YAML configurations
-getlantern / lantern,"36,990","8,454",20 ,go,month,🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-araddon / qlbridge,449,22,22 ,go,month,A golang SQL expression VM. Library to build query engine based functionality.
-v2ray / v2ray-core,"9,773","2,086",18 ,go,month,A platform for building proxies to bypass network restrictions.
-moby / moby,"49,996","14,577",20 ,go,month,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-gin-gonic / gin,"19,691","2,329",18 ,go,month,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
-helm / helm,"7,060","2,401",15 ,go,month,The Kubernetes Package Manager
-goharbor / harbor,"5,077","1,431",18 ,go,month,"An open source trusted cloud native registry project that stores, signs, and scans content."
-gogs / gogs,"26,608","3,089",18 ,go,month,Gogs is a painless self-hosted Git service.
-iikira / BaiduPCS-Go,"5,560",798,17 ,go,month,百度网盘客户端 - Go语言编写
+MichaelMure / git-bug,"1,319",23,332 ,go,month,Distributed bug tracker embedded in Git
+aykevl / tinygo,285,8,266 ,go,month,"Go compiler for small devices, based on LLVM."
+jesseduffield / lazygit,"8,373",219,101 ,go,month,simple terminal UI for git commands
+Jeffail / benthos,"1,313",36,54 ,go,month,"A dull, resilient and quick to deploy stream processor"
+kubernetes / kubernetes,"40,228","13,990",33 ,go,month,Production-Grade Container Scheduling and Management
+iikira / BaiduPCS-Go,"5,591",798,38 ,go,month,百度网盘客户端 - Go语言编写
+FiloSottile / mkcert,"9,865",327,38 ,go,month,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+avelino / awesome-go,"34,258","4,408",35 ,go,month,"A curated list of awesome Go frameworks, libraries and software"
+v2ray / v2ray-core,"9,797","2,092",28 ,go,month,A platform for building proxies to bypass network restrictions.
+golang / go,"45,679","6,235",28 ,go,month,The Go programming language
+sausheong / invadersapp,33,4,27 ,go,month,Space invaders in an app
+uber-go / zap,"4,842",333,25 ,go,month,"Blazing fast, structured, leveled logging in Go."
+gin-gonic / gin,"19,705","2,332",23 ,go,month,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+gohugoio / hugo,"28,023","3,283",24 ,go,month,The world’s fastest framework for building websites.
+satran / dohproxy,78,6,23 ,go,month,DNS over HTTPS proxy written in golang
+CorentinB / DeepSort,27,1,23 ,go,month,🧠 AI powered image tagger backed by DeepDetect
+go-ego / riot,"3,835",182,21 ,go,month,"Go Open Source, Distributed, Simple and efficient Search Engine"
+astaxie / build-web-application-with-golang,"24,546","7,083",17 ,go,month,A golang ebook intro how to build a web with golang
+fatedier / frp,"14,486","2,616",17 ,go,month,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+containous / traefik,"17,050","1,719",14 ,go,month,The Cloud Native Edge Router
+araddon / qlbridge,461,22,15 ,go,month,A golang SQL expression VM. Library to build query engine based functionality.
+snail007 / goproxy,"3,197",604,14 ,go,month,"Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。"
+mosuka / blast,34,3,14 ,go,month,The Blast is a full text search and indexing server written in Go that built on top of the Bleve.
+istio / istio,"10,919","1,549",12 ,go,month,"Connect, secure, control, and observe services."
+jroimartin / gocui,"3,271",186,13 ,go,month,Minimalist Go package aimed at creating Console User Interfaces.

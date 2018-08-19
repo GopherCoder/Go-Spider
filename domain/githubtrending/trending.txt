@@ -1,150 +1,150 @@
-Name: google / python-fire,  TotalStar: 10,485, SinceStar: 504 , SinceFlag: day, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-Name: IEEEKeralaSection / rescuekerala,  TotalStar: 354, SinceStar: 116 , SinceFlag: day, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-Name: pwxcoo / chinese-xinhua,  TotalStar: 911, SinceStar: 143 , SinceFlag: day, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,378, SinceStar: 139 , SinceFlag: day, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-Name: astorfi / Deep-Learning-World,  TotalStar: 1,993, SinceStar: 119 , SinceFlag: day, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
-Name: Pext / Pext,  TotalStar: 275, SinceStar: 115 , SinceFlag: day, Language: python, Description: Python-based extendable tool
-Name: calebmadrigal / trackerjacker,  TotalStar: 1,654, SinceStar: 67 , SinceFlag: day, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
-Name: donnemartin / system-design-primer,  TotalStar: 41,509, SinceStar: 58 , SinceFlag: day, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-Name: tensorflow / models,  TotalStar: 40,089, SinceStar: 46 , SinceFlag: day, Language: python, Description: Models and examples built with TensorFlow
-Name: NVIDIA / vid2vid,  TotalStar: 78, SinceStar: 49 , SinceFlag: day, Language: python, Description: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-Name: vinta / awesome-python,  TotalStar: 53,987, SinceStar: 47 , SinceFlag: day, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
-Name: chinese-poetry / chinese-poetry,  TotalStar: 10,617, SinceStar: 43 , SinceFlag: day, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-Name: jhfjhfj1 / autokeras,  TotalStar: 2,537, SinceStar: 43 , SinceFlag: day, Language: python, Description: accessible AutoML for deep learning.
-Name: pyfocus / pylava,  TotalStar: 44, SinceStar: 42 , SinceFlag: day, Language: python, Description: Code audit tool for python (a fork of klen/pylama that works with Python 3.7)
-Name: aquasecurity / kube-hunter,  TotalStar: 136, SinceStar: 39 , SinceFlag: day, Language: python, Description: Hunt for security weaknesses in Kubernetes clusters
-Name: spotify / luigi,  TotalStar: 9,819, SinceStar: 35 , SinceFlag: day, Language: python, Description: Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-Name: ageitgey / face_recognition,  TotalStar: 16,024, SinceStar: 33 , SinceFlag: day, Language: python, Description: The world's simplest facial recognition api for Python and the command line
-Name: django / django,  TotalStar: 35,807, SinceStar: 25 , SinceFlag: day, Language: python, Description: The Web framework for perfectionists with deadlines.
-Name: two06 / Inception,  TotalStar: 39, SinceStar: 26 , SinceFlag: day, Language: python, Description: Provides In-memory compilation and reflective loading of C# apps for AV evasion.
-Name: facebookresearch / UnsupervisedMT,  TotalStar: 439, SinceStar: 31 , SinceFlag: day, Language: python, Description: Phrase-Based & Neural Unsupervised Machine Translation
-Name: ashutosh1206 / Crypton,  TotalStar: 272, SinceStar: 29 , SinceFlag: day, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
-Name: chubin / cheat.sh,  TotalStar: 12,343, SinceStar: 25 , SinceFlag: day, Language: python, Description: the only cheat sheet you need
-Name: toddmotto / public-apis,  TotalStar: 41,212, SinceStar: 25 , SinceFlag: day, Language: python, Description: A collective list of public JSON APIs for use in web development.
-Name: scikit-learn / scikit-learn,  TotalStar: 30,005, SinceStar: 22 , SinceFlag: day, Language: python, Description: scikit-learn: machine learning in Python
-Name: josephmisiti / awesome-machine-learning,  TotalStar: 34,759, SinceStar: 23 , SinceFlag: day, Language: python, Description: A curated list of awesome Machine Learning frameworks, libraries and software.
-Name: astorfi / Deep-Learning-World,  TotalStar: 1,993, SinceStar: 1,984 , SinceFlag: weekly, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
-Name: calebmadrigal / trackerjacker,  TotalStar: 1,654, SinceStar: 1,501 , SinceFlag: weekly, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
-Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,378, SinceStar: 1,281 , SinceFlag: weekly, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-Name: virtualabs / btlejack,  TotalStar: 854, SinceStar: 851 , SinceFlag: weekly, Language: python, Description: Bluetooth Low Energy Swiss-army knife
-Name: donnemartin / system-design-primer,  TotalStar: 41,509, SinceStar: 771 , SinceFlag: weekly, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-Name: chinese-poetry / chinese-poetry,  TotalStar: 10,617, SinceStar: 726 , SinceFlag: weekly, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-Name: SpiderLabs / social_mapper,  TotalStar: 1,342, SinceStar: 600 , SinceFlag: weekly, Language: python, Description: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
-Name: pwxcoo / chinese-xinhua,  TotalStar: 911, SinceStar: 560 , SinceFlag: weekly, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-Name: IEEEKeralaSection / rescuekerala,  TotalStar: 354, SinceStar: 347 , SinceFlag: weekly, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-Name: google / python-fire,  TotalStar: 10,485, SinceStar: 523 , SinceFlag: weekly, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-Name: tensorflow / models,  TotalStar: 40,089, SinceStar: 350 , SinceFlag: weekly, Language: python, Description: Models and examples built with TensorFlow
-Name: facebookresearch / UnsupervisedMT,  TotalStar: 439, SinceStar: 436 , SinceFlag: weekly, Language: python, Description: Phrase-Based & Neural Unsupervised Machine Translation
-Name: jhfjhfj1 / autokeras,  TotalStar: 2,537, SinceStar: 384 , SinceFlag: weekly, Language: python, Description: accessible AutoML for deep learning.
-Name: vinta / awesome-python,  TotalStar: 53,987, SinceStar: 343 , SinceFlag: weekly, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
-Name: yogurt-cultures / kefir,  TotalStar: 342, SinceStar: 293 , SinceFlag: weekly, Language: python, Description: Kefir is a natural language processing kit for Turkic languages
-Name: ashutosh1206 / Crypton,  TotalStar: 272, SinceStar: 268 , SinceFlag: weekly, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
-Name: chubin / cheat.sh,  TotalStar: 12,343, SinceStar: 273 , SinceFlag: weekly, Language: python, Description: the only cheat sheet you need
-Name: keras-team / keras,  TotalStar: 32,635, SinceStar: 227 , SinceFlag: weekly, Language: python, Description: Deep Learning for humans
-Name: toddmotto / public-apis,  TotalStar: 41,212, SinceStar: 228 , SinceFlag: weekly, Language: python, Description: A collective list of public JSON APIs for use in web development.
-Name: haskellcamargo / sclack,  TotalStar: 1,445, SinceStar: 231 , SinceFlag: weekly, Language: python, Description: The best CLI client for Slack, because everything is terrible!
-Name: rg3 / youtube-dl,  TotalStar: 40,707, SinceStar: 217 , SinceFlag: weekly, Language: python, Description: Command-line program to download videos from YouTube.com and other video sites
-Name: ageitgey / face_recognition,  TotalStar: 16,024, SinceStar: 204 , SinceFlag: weekly, Language: python, Description: The world's simplest facial recognition api for Python and the command line
-Name: ansible / ansible,  TotalStar: 32,031, SinceStar: 156 , SinceFlag: weekly, Language: python, Description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
-Name: django / django,  TotalStar: 35,807, SinceStar: 157 , SinceFlag: weekly, Language: python, Description: The Web framework for perfectionists with deadlines.
-Name: Hello-Linux / Ansible-VIM-IDE,  TotalStar: 201, SinceStar: 196 , SinceFlag: weekly, Language: python, Description: A beautiful VIM-IDE based on Ansible
-Name: google / python-fire,  TotalStar: 10,485, SinceStar: 504 , SinceFlag: month, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-Name: IEEEKeralaSection / rescuekerala,  TotalStar: 354, SinceStar: 116 , SinceFlag: month, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-Name: pwxcoo / chinese-xinhua,  TotalStar: 911, SinceStar: 143 , SinceFlag: month, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
-Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,378, SinceStar: 139 , SinceFlag: month, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-Name: astorfi / Deep-Learning-World,  TotalStar: 1,993, SinceStar: 119 , SinceFlag: month, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
-Name: Pext / Pext,  TotalStar: 275, SinceStar: 115 , SinceFlag: month, Language: python, Description: Python-based extendable tool
-Name: calebmadrigal / trackerjacker,  TotalStar: 1,654, SinceStar: 67 , SinceFlag: month, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
-Name: donnemartin / system-design-primer,  TotalStar: 41,509, SinceStar: 58 , SinceFlag: month, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-Name: tensorflow / models,  TotalStar: 40,089, SinceStar: 46 , SinceFlag: month, Language: python, Description: Models and examples built with TensorFlow
-Name: NVIDIA / vid2vid,  TotalStar: 78, SinceStar: 49 , SinceFlag: month, Language: python, Description: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-Name: vinta / awesome-python,  TotalStar: 53,987, SinceStar: 47 , SinceFlag: month, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
-Name: chinese-poetry / chinese-poetry,  TotalStar: 10,617, SinceStar: 43 , SinceFlag: month, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-Name: jhfjhfj1 / autokeras,  TotalStar: 2,537, SinceStar: 43 , SinceFlag: month, Language: python, Description: accessible AutoML for deep learning.
-Name: pyfocus / pylava,  TotalStar: 44, SinceStar: 42 , SinceFlag: month, Language: python, Description: Code audit tool for python (a fork of klen/pylama that works with Python 3.7)
-Name: aquasecurity / kube-hunter,  TotalStar: 136, SinceStar: 39 , SinceFlag: month, Language: python, Description: Hunt for security weaknesses in Kubernetes clusters
-Name: spotify / luigi,  TotalStar: 9,819, SinceStar: 35 , SinceFlag: month, Language: python, Description: Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-Name: ageitgey / face_recognition,  TotalStar: 16,024, SinceStar: 33 , SinceFlag: month, Language: python, Description: The world's simplest facial recognition api for Python and the command line
-Name: django / django,  TotalStar: 35,807, SinceStar: 25 , SinceFlag: month, Language: python, Description: The Web framework for perfectionists with deadlines.
-Name: two06 / Inception,  TotalStar: 39, SinceStar: 26 , SinceFlag: month, Language: python, Description: Provides In-memory compilation and reflective loading of C# apps for AV evasion.
-Name: facebookresearch / UnsupervisedMT,  TotalStar: 439, SinceStar: 31 , SinceFlag: month, Language: python, Description: Phrase-Based & Neural Unsupervised Machine Translation
-Name: ashutosh1206 / Crypton,  TotalStar: 272, SinceStar: 29 , SinceFlag: month, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
-Name: chubin / cheat.sh,  TotalStar: 12,343, SinceStar: 25 , SinceFlag: month, Language: python, Description: the only cheat sheet you need
-Name: toddmotto / public-apis,  TotalStar: 41,212, SinceStar: 25 , SinceFlag: month, Language: python, Description: A collective list of public JSON APIs for use in web development.
-Name: scikit-learn / scikit-learn,  TotalStar: 30,005, SinceStar: 22 , SinceFlag: month, Language: python, Description: scikit-learn: machine learning in Python
-Name: josephmisiti / awesome-machine-learning,  TotalStar: 34,759, SinceStar: 23 , SinceFlag: month, Language: python, Description: A curated list of awesome Machine Learning frameworks, libraries and software.
-Name: MichaelMure / git-bug,  TotalStar: 1,064, SinceStar: 1,001 , SinceFlag: day, Language: go, Description: Distributed bug tracker embedded in Git
-Name: Jeffail / benthos,  TotalStar: 1,277, SinceStar: 193 , SinceFlag: day, Language: go, Description: A dull, resilient and quick to deploy stream processor
-Name: jesseduffield / lazygit,  TotalStar: 8,280, SinceStar: 76 , SinceFlag: day, Language: go, Description: simple terminal UI for git commands
-Name: uber-go / zap,  TotalStar: 4,822, SinceStar: 53 , SinceFlag: day, Language: go, Description: Blazing fast, structured, leveled logging in Go.
-Name: FiloSottile / mkcert,  TotalStar: 9,834, SinceStar: 47 , SinceFlag: day, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-Name: kubernetes / kubernetes,  TotalStar: 40,203, SinceStar: 32 , SinceFlag: day, Language: go, Description: Production-Grade Container Scheduling and Management
-Name: golang / go,  TotalStar: 45,653, SinceStar: 34 , SinceFlag: day, Language: go, Description: The Go programming language
-Name: satran / dohproxy,  TotalStar: 61, SinceStar: 34 , SinceFlag: day, Language: go, Description: DNS over HTTPS proxy written in golang
-Name: ethereum / go-ethereum,  TotalStar: 20,091, SinceStar: 27 , SinceFlag: day, Language: go, Description: Official Go implementation of the Ethereum protocol
-Name: gohugoio / hugo,  TotalStar: 28,006, SinceStar: 29 , SinceFlag: day, Language: go, Description: The world’s fastest framework for building websites.
-Name: mb-14 / gomarkov,  TotalStar: 79, SinceStar: 28 , SinceFlag: day, Language: go, Description: Markov chains in golang
-Name: aykevl / tinygo,  TotalStar: 74, SinceStar: 28 , SinceFlag: day, Language: go, Description: Go compiler for small devices, based on LLVM.
-Name: avelino / awesome-go,  TotalStar: 34,231, SinceStar: 26 , SinceFlag: day, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
-Name: go-ego / riot,  TotalStar: 3,820, SinceStar: 25 , SinceFlag: day, Language: go, Description: Go Open Source, Distributed, Simple and efficient Search Engine
-Name: prometheus / prometheus,  TotalStar: 18,247, SinceStar: 24 , SinceFlag: day, Language: go, Description: The Prometheus monitoring system and time series database.
-Name: kubernetes-sigs / kustomize,  TotalStar: 855, SinceStar: 24 , SinceFlag: day, Language: go, Description: Customization of kubernetes YAML configurations
-Name: getlantern / lantern,  TotalStar: 36,990, SinceStar: 20 , SinceFlag: day, Language: go, Description: 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-Name: araddon / qlbridge,  TotalStar: 449, SinceStar: 22 , SinceFlag: day, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
-Name: v2ray / v2ray-core,  TotalStar: 9,773, SinceStar: 18 , SinceFlag: day, Language: go, Description: A platform for building proxies to bypass network restrictions.
-Name: moby / moby,  TotalStar: 49,996, SinceStar: 20 , SinceFlag: day, Language: go, Description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-Name: gin-gonic / gin,  TotalStar: 19,691, SinceStar: 18 , SinceFlag: day, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-Name: helm / helm,  TotalStar: 7,060, SinceStar: 15 , SinceFlag: day, Language: go, Description: The Kubernetes Package Manager
-Name: goharbor / harbor,  TotalStar: 5,077, SinceStar: 18 , SinceFlag: day, Language: go, Description: An open source trusted cloud native registry project that stores, signs, and scans content.
-Name: gogs / gogs,  TotalStar: 26,608, SinceStar: 18 , SinceFlag: day, Language: go, Description: Gogs is a painless self-hosted Git service.
-Name: iikira / BaiduPCS-Go,  TotalStar: 5,560, SinceStar: 17 , SinceFlag: day, Language: go, Description: 百度网盘客户端 - Go语言编写
-Name: FiloSottile / mkcert,  TotalStar: 9,834, SinceStar: 2,284 , SinceFlag: weekly, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-Name: jesseduffield / lazygit,  TotalStar: 8,280, SinceStar: 1,447 , SinceFlag: weekly, Language: go, Description: simple terminal UI for git commands
-Name: MichaelMure / git-bug,  TotalStar: 1,064, SinceStar: 1,004 , SinceFlag: weekly, Language: go, Description: Distributed bug tracker embedded in Git
-Name: Jeffail / benthos,  TotalStar: 1,277, SinceStar: 973 , SinceFlag: weekly, Language: go, Description: A dull, resilient and quick to deploy stream processor
-Name: uber-go / zap,  TotalStar: 4,822, SinceStar: 483 , SinceFlag: weekly, Language: go, Description: Blazing fast, structured, leveled logging in Go.
-Name: kubernetes / kubernetes,  TotalStar: 40,203, SinceStar: 302 , SinceFlag: weekly, Language: go, Description: Production-Grade Container Scheduling and Management
-Name: golang / go,  TotalStar: 45,653, SinceStar: 310 , SinceFlag: weekly, Language: go, Description: The Go programming language
-Name: araddon / qlbridge,  TotalStar: 449, SinceStar: 328 , SinceFlag: weekly, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
-Name: avelino / awesome-go,  TotalStar: 34,231, SinceStar: 271 , SinceFlag: weekly, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
-Name: chai2010 / advanced-go-programming-book,  TotalStar: 4,435, SinceStar: 259 , SinceFlag: weekly, Language: go, Description: 📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
-Name: ethereum / go-ethereum,  TotalStar: 20,091, SinceStar: 202 , SinceFlag: weekly, Language: go, Description: Official Go implementation of the Ethereum protocol
-Name: iikira / BaiduPCS-Go,  TotalStar: 5,560, SinceStar: 225 , SinceFlag: weekly, Language: go, Description: 百度网盘客户端 - Go语言编写
-Name: gin-gonic / gin,  TotalStar: 19,691, SinceStar: 221 , SinceFlag: weekly, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-Name: fatedier / frp,  TotalStar: 14,472, SinceStar: 211 , SinceFlag: weekly, Language: go, Description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-Name: getlantern / lantern,  TotalStar: 36,990, SinceStar: 196 , SinceFlag: weekly, Language: go, Description: 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-Name: istio / istio,  TotalStar: 10,905, SinceStar: 192 , SinceFlag: weekly, Language: go, Description: Connect, secure, control, and observe services.
-Name: prometheus / prometheus,  TotalStar: 18,247, SinceStar: 192 , SinceFlag: weekly, Language: go, Description: The Prometheus monitoring system and time series database.
-Name: gohugoio / hugo,  TotalStar: 28,006, SinceStar: 189 , SinceFlag: weekly, Language: go, Description: The world’s fastest framework for building websites.
-Name: v2ray / v2ray-core,  TotalStar: 9,773, SinceStar: 177 , SinceFlag: weekly, Language: go, Description: A platform for building proxies to bypass network restrictions.
-Name: jroimartin / gocui,  TotalStar: 3,262, SinceStar: 190 , SinceFlag: weekly, Language: go, Description: Minimalist Go package aimed at creating Console User Interfaces.
-Name: go-gitea / gitea,  TotalStar: 9,540, SinceStar: 172 , SinceFlag: weekly, Language: go, Description: Git with a cup of tea, painless self-hosted git service
-Name: containous / traefik,  TotalStar: 17,040, SinceStar: 164 , SinceFlag: weekly, Language: go, Description: The Cloud Native Edge Router
-Name: astaxie / build-web-application-with-golang,  TotalStar: 24,533, SinceStar: 146 , SinceFlag: weekly, Language: go, Description: A golang ebook intro how to build a web with golang
+Name: google / python-fire,  TotalStar: 10,729, SinceStar: 347 , SinceFlag: day, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+Name: pwxcoo / chinese-xinhua,  TotalStar: 1,125, SinceStar: 222 , SinceFlag: day, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+Name: NVIDIA / vid2vid,  TotalStar: 227, SinceStar: 145 , SinceFlag: day, Language: python, Description: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,463, SinceStar: 107 , SinceFlag: day, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+Name: IEEEKeralaSection / rescuekerala,  TotalStar: 412, SinceStar: 70 , SinceFlag: day, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+Name: astorfi / Deep-Learning-World,  TotalStar: 2,065, SinceStar: 82 , SinceFlag: day, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
+Name: donnemartin / system-design-primer,  TotalStar: 41,573, SinceStar: 67 , SinceFlag: day, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Name: UnkL4b / GitMiner,  TotalStar: 998, SinceStar: 52 , SinceFlag: day, Language: python, Description: Tool for advanced mining for content on Github
+Name: tensorflow / models,  TotalStar: 40,114, SinceStar: 34 , SinceFlag: day, Language: python, Description: Models and examples built with TensorFlow
+Name: vinta / awesome-python,  TotalStar: 54,010, SinceStar: 38 , SinceFlag: day, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
+Name: calebmadrigal / trackerjacker,  TotalStar: 1,685, SinceStar: 35 , SinceFlag: day, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
+Name: s0md3v / Photon,  TotalStar: 3,136, SinceStar: 31 , SinceFlag: day, Language: python, Description: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+Name: two06 / Inception,  TotalStar: 62, SinceStar: 27 , SinceFlag: day, Language: python, Description: Provides In-memory compilation and reflective loading of C# apps for AV evasion.
+Name: jhfjhfj1 / autokeras,  TotalStar: 2,558, SinceStar: 26 , SinceFlag: day, Language: python, Description: accessible AutoML for deep learning.
+Name: yeasy / docker_practice,  TotalStar: 9,214, SinceStar: 24 , SinceFlag: day, Language: python, Description: Learn and understand Docker technologies, with real DevOps practice!
+Name: chinese-poetry / chinese-poetry,  TotalStar: 10,634, SinceStar: 23 , SinceFlag: day, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+Name: keras-team / keras,  TotalStar: 32,650, SinceStar: 20 , SinceFlag: day, Language: python, Description: Deep Learning for humans
+Name: chubin / cheat.sh,  TotalStar: 12,362, SinceStar: 20 , SinceFlag: day, Language: python, Description: the only cheat sheet you need
+Name: ageitgey / face_recognition,  TotalStar: 16,038, SinceStar: 19 , SinceFlag: day, Language: python, Description: The world's simplest facial recognition api for Python and the command line
+Name: django / django,  TotalStar: 35,821, SinceStar: 18 , SinceFlag: day, Language: python, Description: The Web framework for perfectionists with deadlines.
+Name: ashutosh1206 / Crypton,  TotalStar: 288, SinceStar: 20 , SinceFlag: day, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
+Name: SpiderLabs / social_mapper,  TotalStar: 1,357, SinceStar: 15 , SinceFlag: day, Language: python, Description: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+Name: XX-net / XX-Net,  TotalStar: 24,315, SinceStar: 17 , SinceFlag: day, Language: python, Description: a web proxy tool
+Name: rg3 / youtube-dl,  TotalStar: 40,719, SinceStar: 15 , SinceFlag: day, Language: python, Description: Command-line program to download videos from YouTube.com and other video sites
+Name: pandas-dev / pandas,  TotalStar: 15,625, SinceStar: 16 , SinceFlag: day, Language: python, Description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+Name: astorfi / Deep-Learning-World,  TotalStar: 2,065, SinceStar: 2,056 , SinceFlag: weekly, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
+Name: calebmadrigal / trackerjacker,  TotalStar: 1,685, SinceStar: 1,523 , SinceFlag: weekly, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
+Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,463, SinceStar: 1,369 , SinceFlag: weekly, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+Name: virtualabs / btlejack,  TotalStar: 867, SinceStar: 844 , SinceFlag: weekly, Language: python, Description: Bluetooth Low Energy Swiss-army knife
+Name: pwxcoo / chinese-xinhua,  TotalStar: 1,125, SinceStar: 754 , SinceFlag: weekly, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+Name: google / python-fire,  TotalStar: 10,729, SinceStar: 816 , SinceFlag: weekly, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+Name: donnemartin / system-design-primer,  TotalStar: 41,573, SinceStar: 743 , SinceFlag: weekly, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Name: chinese-poetry / chinese-poetry,  TotalStar: 10,634, SinceStar: 739 , SinceFlag: weekly, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+Name: IEEEKeralaSection / rescuekerala,  TotalStar: 412, SinceStar: 406 , SinceFlag: weekly, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+Name: SpiderLabs / social_mapper,  TotalStar: 1,357, SinceStar: 512 , SinceFlag: weekly, Language: python, Description: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+Name: tensorflow / models,  TotalStar: 40,114, SinceStar: 356 , SinceFlag: weekly, Language: python, Description: Models and examples built with TensorFlow
+Name: facebookresearch / UnsupervisedMT,  TotalStar: 449, SinceStar: 448 , SinceFlag: weekly, Language: python, Description: Phrase-Based & Neural Unsupervised Machine Translation
+Name: jhfjhfj1 / autokeras,  TotalStar: 2,558, SinceStar: 370 , SinceFlag: weekly, Language: python, Description: accessible AutoML for deep learning.
+Name: vinta / awesome-python,  TotalStar: 54,010, SinceStar: 352 , SinceFlag: weekly, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
+Name: ashutosh1206 / Crypton,  TotalStar: 288, SinceStar: 287 , SinceFlag: weekly, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
+Name: keras-team / keras,  TotalStar: 32,650, SinceStar: 223 , SinceFlag: weekly, Language: python, Description: Deep Learning for humans
+Name: chubin / cheat.sh,  TotalStar: 12,362, SinceStar: 259 , SinceFlag: weekly, Language: python, Description: the only cheat sheet you need
+Name: yogurt-cultures / kefir,  TotalStar: 346, SinceStar: 225 , SinceFlag: weekly, Language: python, Description: Kefir is a natural language processing kit for Turkic languages
+Name: ageitgey / face_recognition,  TotalStar: 16,038, SinceStar: 205 , SinceFlag: weekly, Language: python, Description: The world's simplest facial recognition api for Python and the command line
+Name: toddmotto / public-apis,  TotalStar: 41,224, SinceStar: 213 , SinceFlag: weekly, Language: python, Description: A collective list of public JSON APIs for use in web development.
+Name: rg3 / youtube-dl,  TotalStar: 40,719, SinceStar: 197 , SinceFlag: weekly, Language: python, Description: Command-line program to download videos from YouTube.com and other video sites
+Name: s0md3v / Photon,  TotalStar: 3,136, SinceStar: 195 , SinceFlag: weekly, Language: python, Description: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+Name: haskellcamargo / sclack,  TotalStar: 1,454, SinceStar: 208 , SinceFlag: weekly, Language: python, Description: The best CLI client for Slack, because everything is terrible!
+Name: django / django,  TotalStar: 35,821, SinceStar: 158 , SinceFlag: weekly, Language: python, Description: The Web framework for perfectionists with deadlines.
+Name: ansible / ansible,  TotalStar: 32,037, SinceStar: 153 , SinceFlag: weekly, Language: python, Description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+Name: google / python-fire,  TotalStar: 10,729, SinceStar: 347 , SinceFlag: month, Language: python, Description: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+Name: pwxcoo / chinese-xinhua,  TotalStar: 1,125, SinceStar: 222 , SinceFlag: month, Language: python, Description: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+Name: NVIDIA / vid2vid,  TotalStar: 227, SinceStar: 145 , SinceFlag: month, Language: python, Description: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+Name: imhuay / Interview_Notes-Chinese,  TotalStar: 1,463, SinceStar: 107 , SinceFlag: month, Language: python, Description: 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+Name: IEEEKeralaSection / rescuekerala,  TotalStar: 412, SinceStar: 70 , SinceFlag: month, Language: python, Description: Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+Name: astorfi / Deep-Learning-World,  TotalStar: 2,065, SinceStar: 82 , SinceFlag: month, Language: python, Description: 📡 Organized Resources for Deep Learning Researchers and Developers
+Name: donnemartin / system-design-primer,  TotalStar: 41,573, SinceStar: 67 , SinceFlag: month, Language: python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Name: UnkL4b / GitMiner,  TotalStar: 998, SinceStar: 52 , SinceFlag: month, Language: python, Description: Tool for advanced mining for content on Github
+Name: tensorflow / models,  TotalStar: 40,114, SinceStar: 34 , SinceFlag: month, Language: python, Description: Models and examples built with TensorFlow
+Name: vinta / awesome-python,  TotalStar: 54,010, SinceStar: 38 , SinceFlag: month, Language: python, Description: A curated list of awesome Python frameworks, libraries, software and resources
+Name: calebmadrigal / trackerjacker,  TotalStar: 1,685, SinceStar: 35 , SinceFlag: month, Language: python, Description: Like nmap for mapping wifi networks you're not connected to, plus device tracking
+Name: s0md3v / Photon,  TotalStar: 3,136, SinceStar: 31 , SinceFlag: month, Language: python, Description: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+Name: two06 / Inception,  TotalStar: 62, SinceStar: 27 , SinceFlag: month, Language: python, Description: Provides In-memory compilation and reflective loading of C# apps for AV evasion.
+Name: jhfjhfj1 / autokeras,  TotalStar: 2,558, SinceStar: 26 , SinceFlag: month, Language: python, Description: accessible AutoML for deep learning.
+Name: yeasy / docker_practice,  TotalStar: 9,214, SinceStar: 24 , SinceFlag: month, Language: python, Description: Learn and understand Docker technologies, with real DevOps practice!
+Name: chinese-poetry / chinese-poetry,  TotalStar: 10,634, SinceStar: 23 , SinceFlag: month, Language: python, Description: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+Name: keras-team / keras,  TotalStar: 32,650, SinceStar: 20 , SinceFlag: month, Language: python, Description: Deep Learning for humans
+Name: chubin / cheat.sh,  TotalStar: 12,362, SinceStar: 20 , SinceFlag: month, Language: python, Description: the only cheat sheet you need
+Name: ageitgey / face_recognition,  TotalStar: 16,038, SinceStar: 19 , SinceFlag: month, Language: python, Description: The world's simplest facial recognition api for Python and the command line
+Name: django / django,  TotalStar: 35,821, SinceStar: 18 , SinceFlag: month, Language: python, Description: The Web framework for perfectionists with deadlines.
+Name: ashutosh1206 / Crypton,  TotalStar: 288, SinceStar: 20 , SinceFlag: month, Language: python, Description: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs
+Name: SpiderLabs / social_mapper,  TotalStar: 1,357, SinceStar: 15 , SinceFlag: month, Language: python, Description: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+Name: XX-net / XX-Net,  TotalStar: 24,315, SinceStar: 17 , SinceFlag: month, Language: python, Description: a web proxy tool
+Name: rg3 / youtube-dl,  TotalStar: 40,719, SinceStar: 15 , SinceFlag: month, Language: python, Description: Command-line program to download videos from YouTube.com and other video sites
+Name: pandas-dev / pandas,  TotalStar: 15,625, SinceStar: 16 , SinceFlag: month, Language: python, Description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+Name: MichaelMure / git-bug,  TotalStar: 1,319, SinceStar: 332 , SinceFlag: day, Language: go, Description: Distributed bug tracker embedded in Git
+Name: aykevl / tinygo,  TotalStar: 285, SinceStar: 266 , SinceFlag: day, Language: go, Description: Go compiler for small devices, based on LLVM.
+Name: jesseduffield / lazygit,  TotalStar: 8,373, SinceStar: 101 , SinceFlag: day, Language: go, Description: simple terminal UI for git commands
+Name: Jeffail / benthos,  TotalStar: 1,313, SinceStar: 54 , SinceFlag: day, Language: go, Description: A dull, resilient and quick to deploy stream processor
+Name: kubernetes / kubernetes,  TotalStar: 40,228, SinceStar: 33 , SinceFlag: day, Language: go, Description: Production-Grade Container Scheduling and Management
+Name: iikira / BaiduPCS-Go,  TotalStar: 5,591, SinceStar: 38 , SinceFlag: day, Language: go, Description: 百度网盘客户端 - Go语言编写
+Name: FiloSottile / mkcert,  TotalStar: 9,865, SinceStar: 38 , SinceFlag: day, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+Name: avelino / awesome-go,  TotalStar: 34,258, SinceStar: 35 , SinceFlag: day, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
+Name: v2ray / v2ray-core,  TotalStar: 9,797, SinceStar: 28 , SinceFlag: day, Language: go, Description: A platform for building proxies to bypass network restrictions.
+Name: golang / go,  TotalStar: 45,679, SinceStar: 28 , SinceFlag: day, Language: go, Description: The Go programming language
+Name: sausheong / invadersapp,  TotalStar: 33, SinceStar: 27 , SinceFlag: day, Language: go, Description: Space invaders in an app
+Name: uber-go / zap,  TotalStar: 4,842, SinceStar: 25 , SinceFlag: day, Language: go, Description: Blazing fast, structured, leveled logging in Go.
+Name: gin-gonic / gin,  TotalStar: 19,705, SinceStar: 23 , SinceFlag: day, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+Name: gohugoio / hugo,  TotalStar: 28,023, SinceStar: 24 , SinceFlag: day, Language: go, Description: The world’s fastest framework for building websites.
+Name: satran / dohproxy,  TotalStar: 78, SinceStar: 23 , SinceFlag: day, Language: go, Description: DNS over HTTPS proxy written in golang
+Name: CorentinB / DeepSort,  TotalStar: 27, SinceStar: 23 , SinceFlag: day, Language: go, Description: 🧠 AI powered image tagger backed by DeepDetect
+Name: go-ego / riot,  TotalStar: 3,835, SinceStar: 21 , SinceFlag: day, Language: go, Description: Go Open Source, Distributed, Simple and efficient Search Engine
+Name: astaxie / build-web-application-with-golang,  TotalStar: 24,546, SinceStar: 17 , SinceFlag: day, Language: go, Description: A golang ebook intro how to build a web with golang
+Name: fatedier / frp,  TotalStar: 14,486, SinceStar: 17 , SinceFlag: day, Language: go, Description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+Name: containous / traefik,  TotalStar: 17,050, SinceStar: 14 , SinceFlag: day, Language: go, Description: The Cloud Native Edge Router
+Name: araddon / qlbridge,  TotalStar: 461, SinceStar: 15 , SinceFlag: day, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
+Name: snail007 / goproxy,  TotalStar: 3,197, SinceStar: 14 , SinceFlag: day, Language: go, Description: Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
+Name: mosuka / blast,  TotalStar: 34, SinceStar: 14 , SinceFlag: day, Language: go, Description: The Blast is a full text search and indexing server written in Go that built on top of the Bleve.
+Name: istio / istio,  TotalStar: 10,919, SinceStar: 12 , SinceFlag: day, Language: go, Description: Connect, secure, control, and observe services.
+Name: jroimartin / gocui,  TotalStar: 3,271, SinceStar: 13 , SinceFlag: day, Language: go, Description: Minimalist Go package aimed at creating Console User Interfaces.
+Name: FiloSottile / mkcert,  TotalStar: 9,865, SinceStar: 2,312 , SinceFlag: weekly, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+Name: jesseduffield / lazygit,  TotalStar: 8,373, SinceStar: 1,389 , SinceFlag: weekly, Language: go, Description: simple terminal UI for git commands
+Name: MichaelMure / git-bug,  TotalStar: 1,319, SinceStar: 1,281 , SinceFlag: weekly, Language: go, Description: Distributed bug tracker embedded in Git
+Name: Jeffail / benthos,  TotalStar: 1,313, SinceStar: 1,013 , SinceFlag: weekly, Language: go, Description: A dull, resilient and quick to deploy stream processor
+Name: uber-go / zap,  TotalStar: 4,842, SinceStar: 501 , SinceFlag: weekly, Language: go, Description: Blazing fast, structured, leveled logging in Go.
+Name: kubernetes / kubernetes,  TotalStar: 40,228, SinceStar: 306 , SinceFlag: weekly, Language: go, Description: Production-Grade Container Scheduling and Management
+Name: golang / go,  TotalStar: 45,679, SinceStar: 313 , SinceFlag: weekly, Language: go, Description: The Go programming language
+Name: araddon / qlbridge,  TotalStar: 461, SinceStar: 338 , SinceFlag: weekly, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
+Name: avelino / awesome-go,  TotalStar: 34,258, SinceStar: 287 , SinceFlag: weekly, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
+Name: aykevl / tinygo,  TotalStar: 285, SinceStar: 266 , SinceFlag: weekly, Language: go, Description: Go compiler for small devices, based on LLVM.
+Name: iikira / BaiduPCS-Go,  TotalStar: 5,591, SinceStar: 245 , SinceFlag: weekly, Language: go, Description: 百度网盘客户端 - Go语言编写
+Name: chai2010 / advanced-go-programming-book,  TotalStar: 4,442, SinceStar: 227 , SinceFlag: weekly, Language: go, Description: 📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
+Name: gin-gonic / gin,  TotalStar: 19,705, SinceStar: 224 , SinceFlag: weekly, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+Name: ethereum / go-ethereum,  TotalStar: 20,096, SinceStar: 192 , SinceFlag: weekly, Language: go, Description: Official Go implementation of the Ethereum protocol
+Name: fatedier / frp,  TotalStar: 14,486, SinceStar: 207 , SinceFlag: weekly, Language: go, Description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+Name: istio / istio,  TotalStar: 10,919, SinceStar: 196 , SinceFlag: weekly, Language: go, Description: Connect, secure, control, and observe services.
+Name: getlantern / lantern,  TotalStar: 37,003, SinceStar: 197 , SinceFlag: weekly, Language: go, Description: 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
+Name: v2ray / v2ray-core,  TotalStar: 9,797, SinceStar: 189 , SinceFlag: weekly, Language: go, Description: A platform for building proxies to bypass network restrictions.
+Name: prometheus / prometheus,  TotalStar: 18,259, SinceStar: 186 , SinceFlag: weekly, Language: go, Description: The Prometheus monitoring system and time series database.
+Name: gohugoio / hugo,  TotalStar: 28,023, SinceStar: 192 , SinceFlag: weekly, Language: go, Description: The world’s fastest framework for building websites.
+Name: jroimartin / gocui,  TotalStar: 3,271, SinceStar: 180 , SinceFlag: weekly, Language: go, Description: Minimalist Go package aimed at creating Console User Interfaces.
+Name: containous / traefik,  TotalStar: 17,050, SinceStar: 168 , SinceFlag: weekly, Language: go, Description: The Cloud Native Edge Router
+Name: go-gitea / gitea,  TotalStar: 9,546, SinceStar: 164 , SinceFlag: weekly, Language: go, Description: Git with a cup of tea, painless self-hosted git service
+Name: astaxie / build-web-application-with-golang,  TotalStar: 24,546, SinceStar: 149 , SinceFlag: weekly, Language: go, Description: A golang ebook intro how to build a web with golang
 Name: otiai10 / amesh,  TotalStar: 233, SinceStar: 165 , SinceFlag: weekly, Language: go, Description: みんなだいすき東京アメッシュ！
-Name: m3db / m3,  TotalStar: 823, SinceStar: 158 , SinceFlag: weekly, Language: go, Description: M3 monorepo - Distributed TSDB and Query Engine, Prometheus Sidecar, Metrics Platform
-Name: MichaelMure / git-bug,  TotalStar: 1,064, SinceStar: 1,001 , SinceFlag: month, Language: go, Description: Distributed bug tracker embedded in Git
-Name: Jeffail / benthos,  TotalStar: 1,277, SinceStar: 193 , SinceFlag: month, Language: go, Description: A dull, resilient and quick to deploy stream processor
-Name: jesseduffield / lazygit,  TotalStar: 8,280, SinceStar: 76 , SinceFlag: month, Language: go, Description: simple terminal UI for git commands
-Name: uber-go / zap,  TotalStar: 4,822, SinceStar: 53 , SinceFlag: month, Language: go, Description: Blazing fast, structured, leveled logging in Go.
-Name: FiloSottile / mkcert,  TotalStar: 9,834, SinceStar: 47 , SinceFlag: month, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-Name: kubernetes / kubernetes,  TotalStar: 40,203, SinceStar: 32 , SinceFlag: month, Language: go, Description: Production-Grade Container Scheduling and Management
-Name: golang / go,  TotalStar: 45,653, SinceStar: 34 , SinceFlag: month, Language: go, Description: The Go programming language
-Name: satran / dohproxy,  TotalStar: 61, SinceStar: 34 , SinceFlag: month, Language: go, Description: DNS over HTTPS proxy written in golang
-Name: ethereum / go-ethereum,  TotalStar: 20,091, SinceStar: 27 , SinceFlag: month, Language: go, Description: Official Go implementation of the Ethereum protocol
-Name: gohugoio / hugo,  TotalStar: 28,006, SinceStar: 29 , SinceFlag: month, Language: go, Description: The world’s fastest framework for building websites.
-Name: mb-14 / gomarkov,  TotalStar: 79, SinceStar: 28 , SinceFlag: month, Language: go, Description: Markov chains in golang
-Name: aykevl / tinygo,  TotalStar: 74, SinceStar: 28 , SinceFlag: month, Language: go, Description: Go compiler for small devices, based on LLVM.
-Name: avelino / awesome-go,  TotalStar: 34,231, SinceStar: 26 , SinceFlag: month, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
-Name: go-ego / riot,  TotalStar: 3,820, SinceStar: 25 , SinceFlag: month, Language: go, Description: Go Open Source, Distributed, Simple and efficient Search Engine
-Name: prometheus / prometheus,  TotalStar: 18,247, SinceStar: 24 , SinceFlag: month, Language: go, Description: The Prometheus monitoring system and time series database.
-Name: kubernetes-sigs / kustomize,  TotalStar: 855, SinceStar: 24 , SinceFlag: month, Language: go, Description: Customization of kubernetes YAML configurations
-Name: getlantern / lantern,  TotalStar: 36,990, SinceStar: 20 , SinceFlag: month, Language: go, Description: 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
-Name: araddon / qlbridge,  TotalStar: 449, SinceStar: 22 , SinceFlag: month, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
-Name: v2ray / v2ray-core,  TotalStar: 9,773, SinceStar: 18 , SinceFlag: month, Language: go, Description: A platform for building proxies to bypass network restrictions.
-Name: moby / moby,  TotalStar: 49,996, SinceStar: 20 , SinceFlag: month, Language: go, Description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-Name: gin-gonic / gin,  TotalStar: 19,691, SinceStar: 18 , SinceFlag: month, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-Name: helm / helm,  TotalStar: 7,060, SinceStar: 15 , SinceFlag: month, Language: go, Description: The Kubernetes Package Manager
-Name: goharbor / harbor,  TotalStar: 5,077, SinceStar: 18 , SinceFlag: month, Language: go, Description: An open source trusted cloud native registry project that stores, signs, and scans content.
-Name: gogs / gogs,  TotalStar: 26,608, SinceStar: 18 , SinceFlag: month, Language: go, Description: Gogs is a painless self-hosted Git service.
-Name: iikira / BaiduPCS-Go,  TotalStar: 5,560, SinceStar: 17 , SinceFlag: month, Language: go, Description: 百度网盘客户端 - Go语言编写
+Name: MichaelMure / git-bug,  TotalStar: 1,319, SinceStar: 332 , SinceFlag: month, Language: go, Description: Distributed bug tracker embedded in Git
+Name: aykevl / tinygo,  TotalStar: 285, SinceStar: 266 , SinceFlag: month, Language: go, Description: Go compiler for small devices, based on LLVM.
+Name: jesseduffield / lazygit,  TotalStar: 8,373, SinceStar: 101 , SinceFlag: month, Language: go, Description: simple terminal UI for git commands
+Name: Jeffail / benthos,  TotalStar: 1,313, SinceStar: 54 , SinceFlag: month, Language: go, Description: A dull, resilient and quick to deploy stream processor
+Name: kubernetes / kubernetes,  TotalStar: 40,228, SinceStar: 33 , SinceFlag: month, Language: go, Description: Production-Grade Container Scheduling and Management
+Name: iikira / BaiduPCS-Go,  TotalStar: 5,591, SinceStar: 38 , SinceFlag: month, Language: go, Description: 百度网盘客户端 - Go语言编写
+Name: FiloSottile / mkcert,  TotalStar: 9,865, SinceStar: 38 , SinceFlag: month, Language: go, Description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+Name: avelino / awesome-go,  TotalStar: 34,258, SinceStar: 35 , SinceFlag: month, Language: go, Description: A curated list of awesome Go frameworks, libraries and software
+Name: v2ray / v2ray-core,  TotalStar: 9,797, SinceStar: 28 , SinceFlag: month, Language: go, Description: A platform for building proxies to bypass network restrictions.
+Name: golang / go,  TotalStar: 45,679, SinceStar: 28 , SinceFlag: month, Language: go, Description: The Go programming language
+Name: sausheong / invadersapp,  TotalStar: 33, SinceStar: 27 , SinceFlag: month, Language: go, Description: Space invaders in an app
+Name: uber-go / zap,  TotalStar: 4,842, SinceStar: 25 , SinceFlag: month, Language: go, Description: Blazing fast, structured, leveled logging in Go.
+Name: gin-gonic / gin,  TotalStar: 19,705, SinceStar: 23 , SinceFlag: month, Language: go, Description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+Name: gohugoio / hugo,  TotalStar: 28,023, SinceStar: 24 , SinceFlag: month, Language: go, Description: The world’s fastest framework for building websites.
+Name: satran / dohproxy,  TotalStar: 78, SinceStar: 23 , SinceFlag: month, Language: go, Description: DNS over HTTPS proxy written in golang
+Name: CorentinB / DeepSort,  TotalStar: 27, SinceStar: 23 , SinceFlag: month, Language: go, Description: 🧠 AI powered image tagger backed by DeepDetect
+Name: go-ego / riot,  TotalStar: 3,835, SinceStar: 21 , SinceFlag: month, Language: go, Description: Go Open Source, Distributed, Simple and efficient Search Engine
+Name: astaxie / build-web-application-with-golang,  TotalStar: 24,546, SinceStar: 17 , SinceFlag: month, Language: go, Description: A golang ebook intro how to build a web with golang
+Name: fatedier / frp,  TotalStar: 14,486, SinceStar: 17 , SinceFlag: month, Language: go, Description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+Name: containous / traefik,  TotalStar: 17,050, SinceStar: 14 , SinceFlag: month, Language: go, Description: The Cloud Native Edge Router
+Name: araddon / qlbridge,  TotalStar: 461, SinceStar: 15 , SinceFlag: month, Language: go, Description: A golang SQL expression VM. Library to build query engine based functionality.
+Name: snail007 / goproxy,  TotalStar: 3,197, SinceStar: 14 , SinceFlag: month, Language: go, Description: Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
+Name: mosuka / blast,  TotalStar: 34, SinceStar: 14 , SinceFlag: month, Language: go, Description: The Blast is a full text search and indexing server written in Go that built on top of the Bleve.
+Name: istio / istio,  TotalStar: 10,919, SinceStar: 12 , SinceFlag: month, Language: go, Description: Connect, secure, control, and observe services.
+Name: jroimartin / gocui,  TotalStar: 3,271, SinceStar: 13 , SinceFlag: month, Language: go, Description: Minimalist Go package aimed at creating Console User Interfaces.
