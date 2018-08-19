@@ -9,6 +9,8 @@ import (
 
 	"os"
 
+	"time"
+
 	"github.com/spf13/cobra"
 )
 
@@ -32,7 +34,8 @@ var dbCmd = &cobra.Command{
 			for _, one := range imageSize {
 				sizeList = append(sizeList, int(one.ID))
 			}
-			rand.Seed(100)
+			//rand.Seed(100)
+			rand.Seed(time.Now().Unix())
 			if dbError := initial.DataBase.Where("image_size_id = ?", sizeList[rand.Intn(len(sizeList))]).First(&imageAddress).Error; dbError != nil {
 				fmt.Println("try again")
 				return
@@ -41,12 +44,15 @@ var dbCmd = &cobra.Command{
 			fmt.Println(string(jsonObject))
 
 		case "type":
-			var imageAddress model.ImageAddress
-			if dbError := initial.DataBase.Where("size_type = ?", args[2]).First(&imageAddress).Error; dbError != nil {
+
+			var imageAddress []model.ImageAddress
+			if dbError := initial.DataBase.Where("size_type = ?", args[2]).Find(&imageAddress).Error; dbError != nil {
 				fmt.Println("try again")
 				return
 			}
-			jsonObject, _ := json.MarshalIndent(imageAddress, "", " ")
+			rand.Seed(time.Now().Unix())
+			number := rand.Intn(len(imageAddress))
+			jsonObject, _ := json.MarshalIndent(imageAddress[number], "", " ")
 			fmt.Println(string(jsonObject))
 		case "download":
 			// 随机选择图片，根据选择得到的图片进行下载

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go-Spider/domain/githubtrending"
+	"Go-Spider/domain/dongqiudi"
 	"Go-Spider/domain/gushiwen"
 	"Go-Spider/infra/initial"
 	"Go-Spider/src/model"
@@ -58,8 +58,8 @@ func Start() {
 func main() {
 	//defer initial.DataBase.Close()
 	//meizitu.Start()
-	//dongqiudi.StartDongQiuDi()
-	githubtrending.TrendingStart()
+	dongqiudi.StartDongQiuDi()
+	//githubtrending.TrendingStart()
 	//pexels.Start()
 	//cmd.Execute()
 	//Start()
