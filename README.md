@@ -72,3 +72,43 @@
 - [Pexels图片社区](domain/pexels/pexels.md)
 - [全球票房排行榜](domain/piaofang/piaofang.md)
 
+## 几大要点
+
+**如何获取网页源代码**
+
+
+- 原生 net/http
+- gorequest (基于原生的net/http 封装)
+
+**Web客户端请求方法**
+
+- Get 绝大多少数
+- Post
+
+
+**Web服务端响应**
+
+- json
+- html
+
+**Web服务端响应的处理方式**
+
+- json: 使用原生的json 序列化，或者使用 gjson （第三方）
+- html: 正则表达式、 Css 选择器、Xpath
+
+**存储数据方式**
+
+- Text
+- Json
+- Csv
+- db
+
+前三种，涉及文件读写；最后者涉及数据库操作
+
+**展示方式**
+
+- 图表
+
+**最终目的**
+
+- 数据分析
